@@ -16,8 +16,17 @@
 - Backend interaction in submit order step to be an atomic operation
 - Web analytics
 - Unit testcases and E2E testcases coverage
+- Implementation of performance testing
+
+## Libraries used
+- React version 18.2.0
+- React [MUI](https://mui.com/) components
+- Unit testcases with Jest
 
 ## How to use this app?
+
+### Prerequisities
+- Nodejs LTS installed
 
 In the project directory, you can run:
 
